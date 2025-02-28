@@ -82,7 +82,7 @@ if(!isset($_SESSION['username'])){
                   Explore Garden
                   <i class="fas fa-arrow-right"></i>
                 </a>
-                <a href="research.html" class="secondary-btn">
+                <a href="research.php" class="secondary-btn">
                   Learn About Aushadi
                 </a>
               </div>
