@@ -77,17 +77,17 @@ if(isset($_SESSION['username'])){
               </p>
               
               <div class="hero-buttons">
-                <button class="primary-btn">
+                <a href="#" class="primary-btn">
                   
                   Explore Garden
                   <i class="fas fa-arrow-right"></i>
-                </button>
-                <button class="secondary-btn">
-                <a href="research.php" class ="cta-button">
+                </a>
+                
+                <a href="research.php" class ="secondary-btn">
 
                   Learn About Aushadi
                 </a>
-                </button>
+                
               </div>
             </div>
             
